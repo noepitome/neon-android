@@ -1,4 +1,4 @@
-include ':vector'
+include ':neon'
 
 
 // uncomment theses lines to compile matrix SDK as project sources instead of external lib
