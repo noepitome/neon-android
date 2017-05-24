@@ -16,9 +16,9 @@
 
     <!-- access rules: Who can access this room? -->
     <string-array name="room_access_rules_entries">
-        <item>Only people who have been invited</item>
-        <item>Anyone who knows the room\'s link, apart from guests</item>
-        <item>Anyone who knows the room\'s link, including guests</item>
+        <item>Invite Only</item>
+        <item>Anyone with the link, except guests</item>
+        <item>Anyone with the link, including guests</item>
     </string-array>
     
     <string-array name="room_access_rules_values">
